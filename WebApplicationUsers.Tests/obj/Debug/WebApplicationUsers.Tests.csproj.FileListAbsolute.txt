@@ -1,0 +1,3 @@
+C:\Users\nathalia.gomes\Source\repos\WebApplicationUsers\WebApplicationUsers.Tests\obj\Debug\WebApplicationUsers.Tests.csprojAssemblyReference.cache
+C:\Users\nathalia.gomes\Source\repos\WebApplicationUsers\WebApplicationUsers.Tests\obj\Debug\WebApplicationUsers.Tests.dll.config
+C:\Users\nathalia.gomes\Source\repos\WebApplicationUsers\WebApplicationUsers.Tests\obj\Debug\WebApplicationUsers.Tests.csproj.CoreCompileInputs.cache

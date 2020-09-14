@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationUsers", "WebApplicationUsers\WebApplicationUsers.csproj", "{5E7E234B-1751-4FBB-AD7B-5690A2202C0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{34C2B233-AA5A-4FC8-BAFE-0AE1BB7A212C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationUsers.Test", "WebApplicationUsers.Test1\WebApplicationUsers.Test.csproj", "{5AAD11BA-2E40-41C1-95F9-88AE26E352EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E7E234B-1751-4FBB-AD7B-5690A2202C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7E234B-1751-4FBB-AD7B-5690A2202C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7E234B-1751-4FBB-AD7B-5690A2202C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7E234B-1751-4FBB-AD7B-5690A2202C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AAD11BA-2E40-41C1-95F9-88AE26E352EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AAD11BA-2E40-41C1-95F9-88AE26E352EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AAD11BA-2E40-41C1-95F9-88AE26E352EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AAD11BA-2E40-41C1-95F9-88AE26E352EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5E7E234B-1751-4FBB-AD7B-5690A2202C0F} = {34C2B233-AA5A-4FC8-BAFE-0AE1BB7A212C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8948D9CA-BCE2-40A9-B932-839B560748BB}
+	EndGlobalSection
+EndGlobal
